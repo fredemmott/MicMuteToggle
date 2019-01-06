@@ -169,11 +169,6 @@
     <ResourceCompile Include="MicMuteToggle.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Media Include="..\..\..\..\Documents\mute.wav" />
-    <Media Include="..\..\..\..\Documents\unmute.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\Desktop\mic-toggle.png" />
     <Image Include="..\..\..\..\Documents\mic_toggle_WiW_icon.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
