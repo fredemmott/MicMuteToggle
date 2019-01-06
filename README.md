@@ -18,7 +18,7 @@ on startup if any AutoHotKey script is running (likely releated to cheat detecti
 
 ## Usage
 
-1. Download from the releases page
+1. Download from the [releases page](https://github.com/fredemmott/MicMuteToggle/releases)
 2. Run the program; it can be killed from task manager
 
 If you want it to run on startup:
