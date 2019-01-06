@@ -13,6 +13,9 @@ them via something like an Elgato StreamDeck.
 
 For a more-flexible (but less compatible) solution, consider [ahk-micmute](https://github.com/fredemmott/ahk-micmute).
 
+MicMuteToggle is useful for programs that do not interoperate well with AutoHotKey; for example, Call Of Duty: Black Ops 4 will immediately exit
+on startup if any AutoHotKey script is running (likely releated to cheat detection).
+
 ## Usage
 
 1. Download from the releases page
