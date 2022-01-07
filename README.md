@@ -1,3 +1,15 @@
+# changelist
+- ミュート,アンミュート時の音声の削除
+- ミュート時、離してミュート解除を強制(PTTモードを無効化)
+- Deleting audio
+- Disable PTT
+
+# Cautions
+私はほとんどプログラミングができないので、間違った編集があるかもしれません。
+基本はオリジナルと同じです。
+I can hardly program, so there may be incorrect edits.
+The basics are the same as the original.
+
 # MicMuteToggle
 
 This software:
