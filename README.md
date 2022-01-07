@@ -5,10 +5,10 @@
 - Disable PTT
 
 # Cautions
-私はほとんどプログラミングができないので、間違った編集があるかもしれません。
-基本はオリジナルと同じです。
-I can hardly program, so there may be incorrect edits.
-The basics are the same as the original.
+ 私はほとんどプログラミングができないので、間違った編集があるかもしれません。
+ 基本はオリジナルと同じです。
+ I can hardly program, so there may be incorrect edits.
+ The basics are the same as the original.
 
 # MicMuteToggle
 
