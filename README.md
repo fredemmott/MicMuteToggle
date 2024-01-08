@@ -1,3 +1,7 @@
+# Discontinued/archived
+
+This project still works fine, but will no longer be worked on; I intend to create a more flexible successor project, but with no particular timeline. When there is more information, I will share it here.
+
 # MicMuteToggle
 
 This software:
